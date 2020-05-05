@@ -63,7 +63,7 @@ Locales['es'] = {
   -- Phone
   ['alert_ambulance'] = 'alerta de ambulancia',
   -- Death
-  ['respawn_available_in'] = 'restawn disponible en ~b~%s minutos %s segundos~s~',
+  ['respawn_available_in'] = 'respawn disponible en ~b~%s minutos %s segundos~s~',
   ['respawn_bleedout_in'] = 'te vas a desangrar en ~b~%s minutos %s segundos~s~\n',
   ['respawn_bleedout_prompt'] = 'mantén [~b~E~s~] para respawnear',
   ['respawn_bleedout_fine'] = 'mantén [~b~E~s~] para respawner por ~g~$%s~s~',
